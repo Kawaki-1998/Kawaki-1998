@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 **About Me**  
+ 
 I'm a junior Data Science & AI enthusiast passionate about building intelligent systems that solve real-world problems in cybersecurity, automation, and decision support.
 
 🔭 **Currently Exploring**  
